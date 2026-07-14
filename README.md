@@ -10,66 +10,7 @@ Beyond coursework, I remain committed to lifelong learning, consistently explori
 
 ---
 
-## Areas of Interest
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Science
-- Computer Vision
-- Natural Language Processing
-- Software Engineering
-- Distributed Systems
-- Full-Stack Web Development
-- Algorithms and Data Structures
-
----
-
-## Technical Proficiencies
-
-### Programming Languages
-
-- Python
-- C++
-- Java
-- JavaScript
-- C#
-- HTML
-- CSS
-
-### Frameworks and Technologies
-
-- React
-- Node.js
-- Git
-- GitHub
-- Linux
-
----
-
-## Research and Development
-
-My interests extend beyond software implementation to the theoretical foundations and practical applications of intelligent computing. I am particularly motivated by research that integrates machine learning, data analytics, and scalable software systems to create impactful technological solutions. I actively pursue opportunities to deepen my understanding through independent study, experimental projects, and collaborative research initiatives.
-
----
-
-## Competitive Programming
-
-Competitive programming has significantly strengthened my analytical reasoning, algorithmic intuition, and mathematical thinking. It continues to serve as an intellectually stimulating discipline through which I refine my understanding of data structures, optimization techniques, and computational complexity while cultivating a disciplined approach to problem solving.
-
----
-
-## Current Endeavors
-
-I am presently focused on:
-
-- Advancing my understanding of modern Artificial Intelligence and Machine Learning.
-- Designing and developing scalable full-stack web applications.
-- Exploring cloud computing and distributed system architectures.
-- Contributing to open-source software and collaborative engineering projects.
-- Building intelligent applications that integrate robust software engineering principles with state-of-the-art AI technologies.
-
----
 
 
 ## Technology Stack
