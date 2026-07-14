@@ -1,8 +1,6 @@
 # Hello Everyone! 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himelberkeley-pixel/himelberkeley-pixel/main/assets/banner.png" alt="Habibur Rahman Himel Banner" width="100%" />
-</p>
+
 
 I am **Habibur Rahman Himel**, an undergraduate student of **Computer Science at the University of California, Berkeley** with a profound interest in Artificial Intelligence, Machine Learning, Data Science, and Software Engineering. I am passionate about developing intelligent systems that address real-world challenges through rigorous engineering and data-driven methodologies.
 
