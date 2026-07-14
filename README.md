@@ -71,17 +71,6 @@ I am presently focused on:
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=himelberkeley-pixel&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himelberkeley-pixel&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ## Technology Stack
 
