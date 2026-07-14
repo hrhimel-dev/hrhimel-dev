@@ -1,59 +1,89 @@
-# Hi there, I'm Habibur Rahman Himel 👋
+# Hello Everyone! 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himelberkeley-pixel/himelberkeley-pixel/main/github-readme%20logo.png" alt="Banner">
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/himelberkeley-pixel/himelberkeley-pixel/main/github-readme%20logo.png" alt="Banner"> </p>
 
-## About Me 🚀
+I am **Habibur Rahman Himel**, an undergraduate student of **Computer Science at the University of California, Berkeley** with a profound interest in Artificial Intelligence, Machine Learning, Data Science, and Software Engineering. I am passionate about developing intelligent systems that address real-world challenges through rigorous engineering and data-driven methodologies.
 
-I'm a Computer Science undergraduate at **UC Berkeley** with a strong focus on **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy building intelligent systems, solving real-world problems, and continuously expanding my knowledge in emerging technologies.
+My academic pursuits are complemented by a strong inclination toward algorithmic problem solving, software architecture, and emerging computational technologies. I continually seek opportunities to broaden my technical expertise through research, open-source contributions, and the development of practical applications that demonstrate both innovation and scalability.
 
-- 🎓 CS Undergraduate at UC Berkeley
-- 🤖 Interested in AI, Machine Learning, and Deep Learning
-- 📊 Exploring Data Science and Intelligent Systems
-- 💻 Passionate about building practical software solutions
-- 🌱 Currently learning advanced ML concepts and AI applications
-- 🚀 Always working on new projects and improving existing ones
+Beyond coursework, I remain committed to lifelong learning, consistently exploring contemporary advancements in artificial intelligence, modern software development, and computational theory.
 
 ---
 
-## Technologies & Tools 🛠️
+## Areas of Interest
 
-### Programming Languages
-- Python
-- JavaScript
-- HTML
-- CSS
-- C++
-- C#
-  
-
-### Areas of Interest
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
-- Computer Vision
 - Data Science
-- Software Development
+- Computer Vision
+- Natural Language Processing
+- Software Engineering
+- Distributed Systems
+- Full-Stack Web Development
+- Algorithms and Data Structures
 
 ---
 
+## Technical Proficiencies
 
-## GitHub Stats 📈
+### Programming Languages
 
+- Python
+- C++
+- Java
+- JavaScript
+- C#
+- HTML
+- CSS
+
+### Frameworks and Technologies
+
+- React
+- Node.js
+- Git
+- GitHub
+- Linux
+
+---
+
+## Research and Development
+
+My interests extend beyond software implementation to the theoretical foundations and practical applications of intelligent computing. I am particularly motivated by research that integrates machine learning, data analytics, and scalable software systems to create impactful technological solutions. I actively pursue opportunities to deepen my understanding through independent study, experimental projects, and collaborative research initiatives.
+
+---
+
+## Competitive Programming
+
+Competitive programming has significantly strengthened my analytical reasoning, algorithmic intuition, and mathematical thinking. It continues to serve as an intellectually stimulating discipline through which I refine my understanding of data structures, optimization techniques, and computational complexity while cultivating a disciplined approach to problem solving.
+
+---
+
+## Current Endeavors
+
+I am presently focused on:
+
+- Advancing my understanding of modern Artificial Intelligence and Machine Learning.
+- Designing and developing scalable full-stack web applications.
+- Exploring cloud computing and distributed system architectures.
+- Contributing to open-source software and collaborative engineering projects.
+- Building intelligent applications that integrate robust software engineering principles with state-of-the-art AI technologies.
+
+---
+
+## GitHub Statistics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=himelberkeley-pixel&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himelberkeley-pixel&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
 
-## My Skills 
+## Technology Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -62,6 +92,8 @@ I'm a Computer Science undergraduate at **UC Berkeley** with a strong focus on *
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FF6F00?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
